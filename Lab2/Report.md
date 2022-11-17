@@ -15,6 +15,7 @@ Date of finished: 13.11.2022
 ![Image text](https://github.com/eugenebuch/2022_2023-introduction_to_distributed_technologies-k4112c-buchenkov_e_e/blob/master/Lab2/2022-11-13_22-19.png)
 
 Диграмма:
+
 ![Image text](https://github.com/eugenebuch/2022_2023-introduction_to_distributed_technologies-k4112c-buchenkov_e_e/blob/master/Lab2/DiagramLab2.png)
 
 Вывод:
