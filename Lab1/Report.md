@@ -29,7 +29,7 @@ minikube stop: останавливает выполнение minikube
 При вводе валидного токена видим хранилище секретов
 ![Image text](https://github.com/eugenebuch/2022_2023-introduction_to_distributed_technologies-k4112c-buchenkov_e_e/blob/master/Lab1/2022-11-13_18-29_1.png)
 
-Диграмма:
+Диаграмма:
 
 ![Image text](https://github.com/eugenebuch/2022_2023-introduction_to_distributed_technologies-k4112c-buchenkov_e_e/blob/master/Lab1/Diagram.png)
 
