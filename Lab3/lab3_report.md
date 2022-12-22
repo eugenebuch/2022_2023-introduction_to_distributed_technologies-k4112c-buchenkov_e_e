@@ -321,9 +321,9 @@ lab3-ingress   nginx   lab3.eugene   172.31.137.112   80, 443   54s
 
 ### 8. Результаты 
 - Перейдем на страницу `https://lab3.eugene/` и посмотрим данные сертификата
-> ![vaultweb2](img/1.jpg)
+> ![1 jpg](img/1.jpeg)
 
-> ![vaultweb2](img/3.jpg)
+> ![2 jpg](img/3.jpeg)
 
 - Отображение в dashboard
 > ![vaultweb2](img/2.jpg)
